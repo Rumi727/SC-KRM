@@ -1,7 +1,7 @@
 사용할 수 있는 언어: [**한국어**](README.md) [영어](README-EN.md)
 
-**Currently developing the system**  
-For now, please use [1.0](https://github.com/SimsimhanChobo/SC-KRM-1.0/)
+**현제 시스템 개발 중**  
+지금은 [1.0](https://github.com/SimsimhanChobo/SC-KRM-1.0/)을 사용해주세요
 
 # SC KRM
 Unity 전용 만능 커널 시스템, 하지만 **누구나** 사용할 수 있는
