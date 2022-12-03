@@ -6,7 +6,7 @@ UI는 [osu!lazer](https://github.com/ppy/osu)에서 영감을 받았습니다
 ## 라이선스
 [MIT License](https://opensource.org/licenses/MIT)
 
-## 사용된 패키지와 DLL, 오픈 소스
+## 사용한 패키지와 DLL, 오픈 소스
 - [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons)
 
 ## 사용한 아이콘
