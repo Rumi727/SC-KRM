@@ -1,4 +1,4 @@
-언어: [**한국어**](README.md) [영어](README-EN.md)
+[**한국어**](README.md) [영어](README-EN.md)
 
 # SC KRM
 Unity 전용 만능 커널 시스템, 하지만 **누구나** 사용할 수 있는
