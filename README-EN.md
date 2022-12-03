@@ -1,7 +1,7 @@
 Language: [한국어](README.md) [**영어**](README-EN.md)
 
 # SC KRM
-Unity-only universal kernel system that everyone will use
+Unity-only universal kernel system that **everyone** will use
 
 UI inspired by [osu!lazer](https://github.com/ppy/osu)
 
