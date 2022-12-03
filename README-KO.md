@@ -1,4 +1,4 @@
-# SC-KRM
+# SC KRM
 Unity 전용 만능 커널 시스템, 하지만 **누구나** 사용할 수 있는
 
 UI는 [osu!lazer](https://github.com/ppy/osu)에서 영감을 받았습니다
