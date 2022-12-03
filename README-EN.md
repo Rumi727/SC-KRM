@@ -10,7 +10,7 @@ UI inspired by [osu!lazer](https://github.com/ppy/osu)
 - [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons)
 
 ## Source of icons used
-- 제가 직접 만들었거나, [여기](https://github.com/microsoft/fluentui-system-icons)에서 가져왔습니다
+- I made it myself, or got it from [here](https://github.com/microsoft/fluentui-system-icons)
 
 ## Version Notation Conventions
 - It basically follows [Semantic Versioning](https://semver.org/) notation (x.y.z)
