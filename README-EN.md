@@ -1,5 +1,8 @@
 Language available: [Korean](README.md) [**English**](README-EN.md)
 
+**Currently developing the system**  
+For now, please use [1.0](https://github.com/SimsimhanChobo/SC-KRM-1.0/)
+
 # SC KRM
 Unity-only universal kernel system that **everyone** will use
 
