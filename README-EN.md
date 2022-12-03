@@ -1,4 +1,4 @@
-[Korean](README.md) [**English**](README-EN.md)
+Language available: [Korean](README.md) [**English**](README-EN.md)
 
 # SC KRM
 Unity-only universal kernel system that **everyone** will use
