@@ -1,4 +1,4 @@
-사용할 수 있는 언어: [**한국어**](DESIGN-RULES.md) [영어](DESIGN-RULES-.md)
+사용할 수 있는 언어: [**한국어**](DESIGN-RULES.md) [영어](DESIGN-RULES-EN.md)
 
 # 디자인 규칙
 ## 스크립트
