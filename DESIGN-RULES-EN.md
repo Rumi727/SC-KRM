@@ -8,7 +8,7 @@ Available languages: [Korean](DESIGN-RULES.md) [**English**](DESIGN-RULES-EN.md)
   * Classes within classes do not have to follow this
 * Fields must have private access modifiers under any circumstances.
 
-## 명명 규칙
+## Naming convention
 * If the class is an abstract class or is intended to be a base for some class, it must have 'Base' at the end of its name (e.g. SoundPlayerBase).
 * Classes, structs, interfaces, enums, and methods must be Pascal case
   * Interfaces must always have an 'I' at the beginning of their name
@@ -18,9 +18,9 @@ Available languages: [Korean](DESIGN-RULES.md) [**English**](DESIGN-RULES-EN.md)
 * Don't use var type!
   * Can be used when code becomes too long
 
-## 스레드
+## Thread
 * Use [Interlocked](https://docs.microsoft.com/ko-kr/dotnet/api/system.threading.interlocked) no matter what!
 
-## 비동기
+## Async
 * Use [UniTask](https://github.com/Cysharp/UniTask) no matter what!
   * Do not use [UniTaskVoid](https://github.com/Cysharp/UniTask/blob/master/src/UniTask/Assets/Plugins/UniTask/Runtime/UniTaskVoid.cs)!
