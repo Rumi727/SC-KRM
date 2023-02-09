@@ -17,6 +17,7 @@
 * 생성자의 경우 필드를 초기화하는 매개변수 이름은 필드 이름과 같아야 합니다
 * var 타입 사용 금지!
   * 코드가 너무 길어질 때는 사용 가능
+* 필드는 무조건 캡슐화
 
 ## 스레드
 * 무슨 일이 있던 [Interlocked](https://docs.microsoft.com/ko-kr/dotnet/api/system.threading.interlocked) 사용하기!
