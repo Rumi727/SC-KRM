@@ -28,4 +28,5 @@ Available languages: [Korean](DESIGN-RULES.md) [**English**](DESIGN-RULES-EN.md)
 
 ## Animation
 * If you animate with your own code, you are experiencing catastrophe, so use Unity's animator and animation for most animations!
-   * Animators are very good
+  * Simple Lerp animations should use SC KRM code
+  * Animators are very good
