@@ -7,6 +7,7 @@ Available languages: [Korean](DESIGN-RULES.md) [**English**](DESIGN-RULES-EN.md)
 * Just like Java, there can only be one class, interface, or enumeration declaration per script file.
   * Classes within classes do not have to follow this
 * Fields must have private access modifiers under any circumstances.
+* Use partial classes when one class contains too many features
 
 ## Naming convention
 * If the class is an abstract class or is intended to be a base for some class, it must have 'Base' at the end of its name (e.g. SoundPlayerBase).
@@ -15,8 +16,10 @@ Available languages: [Korean](DESIGN-RULES.md) [**English**](DESIGN-RULES-EN.md)
 * Fields, properties, events and constants must be camel case
   * Fields used in properties must be prefixed with '\_'.
 * For constructors, the parameter name that initializes the field must be the same as the field name
+  * The constructor is used by simplifying it to 'new()' code;
 * Don't use var type!
   * Can be used when code becomes too long
+* Lambda expression very welcome
 
 ## Thread
 * Use [Interlocked](https://docs.microsoft.com/ko-kr/dotnet/api/system.threading.interlocked) no matter what!
