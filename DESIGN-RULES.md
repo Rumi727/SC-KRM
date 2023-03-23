@@ -25,3 +25,7 @@
 * 무슨 일이 있든 [UniTask](https://github.com/Cysharp/UniTask) 사용하기!
   * [UniTaskVoid](https://github.com/Cysharp/UniTask/blob/master/src/UniTask/Assets/Plugins/UniTask/Runtime/UniTaskVoid.cs) 사용 금지!
     * Awake 같은 유니티 이벤트 메소드는 예외
+
+## 애니메이션
+* 직접 코드로 애니메이션을 하면 생기는 대참사를 겪고 있으니 웬만한 애니메이션은 유니티의 애니메이터 및 애니메이션 사용하기!
+  * 애니메이터 은근 좋음
