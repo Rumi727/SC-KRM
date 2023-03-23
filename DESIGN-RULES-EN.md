@@ -25,3 +25,7 @@ Available languages: [Korean](DESIGN-RULES.md) [**English**](DESIGN-RULES-EN.md)
 * Use [UniTask](https://github.com/Cysharp/UniTask) no matter what!
   * Do not use [UniTaskVoid](https://github.com/Cysharp/UniTask/blob/master/src/UniTask/Assets/Plugins/UniTask/Runtime/UniTaskVoid.cs)!
     * Exceptions are Unity event methods like Awake.
+
+## Animation
+* If you animate with your own code, you are experiencing catastrophe, so use Unity's animator and animation for most animations!
+   * Animators are very good
