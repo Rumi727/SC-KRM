@@ -1,6 +1,6 @@
 사용할 수 있는 언어: [**한국어**](README.md) [영어](README-EN.md)
 
-**현제 시스템 개발 중**  
+**계획만 있는 점 참고**  
 지금은 [1.0](https://github.com/SimsimhanChobo/SC-KRM-1.0/)을 사용해주세요
 
 # SC KRM
