@@ -1,0 +1,5 @@
+<Project>
+    <PropertyGroup Condition="'$(MSBuildProjectName)' == 'SCKRM'">
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+</Project>
