@@ -1,3 +1,8 @@
+Changed project name to [RuniEngine](https://github.com/SimsimhanChobo/RuniEngine)
+This project is now read-only
+
+---
+
 Language available: [Korean](README.md) [**English**](README-EN.md)
 
 **This is a project in development**
